@@ -30,7 +30,7 @@ function exibirMensagemNoConsole() {
 }
 ```
 
-4) Crie uma função que é executada quando o botão prompt é clicado, perguntando o nome de uma cidade do Brasil. Em seguida, exiba um alerta com a mensagem concatenando a resposta com o texto: `Estive em {cidade} e lembrei de você`:
+4) Crie uma função que exiba um alerta com a mensagem: `Eu amo Js`, sempre que o botão `Alerta` for pressionado:
    
 No `index.html`, adicionamos no onclick o seguinte código:
 
@@ -46,7 +46,7 @@ function exibirAlerta() {
 }
 ```
 
-5) Crie uma função que exiba um alerta com a mensagem: `Eu amo Js`, sempre que o botão `Alerta` for pressionado:
+5) Crie uma função que é executada quando o botão prompt é clicado, perguntando o nome de uma cidade do Brasil. Em seguida, exiba um alerta com a mensagem concatenando a resposta com o texto: `Estive em {cidade} e lembrei de você`:
 
 No `index.html`, adicionamos no onclick o seguinte código:
 
